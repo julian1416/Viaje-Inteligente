@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Pantalla de Login y Creación de Cuenta -->
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/Login.jpg" width="200" alt="Pantalla de Login">
+  <img src="https://raw.githubusercontent.com/julianrojas1416/TU_REPOSITORIO/main/screenshots/Login.jpg" width="200" alt="Pantalla de Login">
   <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/CreateCount.jpg" width="200" alt="Pantalla de Creación de Cuenta">
   
   <!-- Pantalla Principal y Detalle de Actividad -->
