@@ -2,15 +2,28 @@
 
 ## 📸 Capturas de Pantalla
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/CreateCount.jpg" width="200" alt="Pantalla de Creación de Cuenta">
-  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/Details.jpg" width="200" alt="Detalle de Actividad">
-  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/DetailsTravel.jpg" width="200" alt="Detalle de Viaje">
-  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/HomePage.jpg" width="200" alt="Pantalla Principal">
-  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/ItineraryAI.jpg" width="200" alt="Planificación con IA">
-  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/Login.jpg" width="200" alt="Pantalla de Login">
-  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/ResetCount.jpg" width="200" alt="Pantalla de Reseteo">
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><strong>1. Inicio de Sesión</strong></td>
+    <td align="center"><strong>2. Creación de Cuenta</strong></td>
+    <td align="center"><strong>3. Página Principal</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/Login.jpg" width="220" alt="Pantalla de Login"></td>
+    <td><img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/CreateCount.jpg" width="220" alt="Pantalla de Creación de Cuenta"></td>
+    <td><img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/HomePage.jpg" width="220" alt="Pantalla Principal"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>4. Detalles de Actividad</strong></td>
+    <td align="center"><strong>5. Planificación con IA</strong></td>
+    <td align="center"><strong>6. Itinerario Generado</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/Details.jpg" width="220" alt="Detalle de Actividad"></td>
+    <td><img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/ItineraryAI.jpg" width="220" alt="Planificación con IA"></td>
+    <td><img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/DetailsTravel.jpg" width="220" alt="Detalle de Viaje"></td>
+  </tr>
+</table>
 
 > Una aplicación móvil integral construida con Flutter, Supabase y Google Gemini para la planificación inteligente y personalizada de viajes.
 
