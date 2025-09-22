@@ -1,10 +1,19 @@
 # ✈️ ViajaInteligente - Tu Asistente de Viajes con IA 🤖
 
+## 📸 Capturas de Pantalla
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
-  <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
-  <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Badge"/>
+  <!-- Pantalla de Login y Creación de Cuenta -->
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/Login.jpg" width="200" alt="Pantalla de Login">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/CreateCount.jpg" width="200" alt="Pantalla de Creación de Cuenta">
+  
+  <!-- Pantalla Principal y Detalle de Actividad -->
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/HomePage.jpg" width="200" alt="Pantalla Principal">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/Details.jpg" width="200" alt="Detalle de Actividad">
+  
+  <!-- Planificación con IA y Detalle de Viaje -->
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/ItineraryAI.jpg" width="200" alt="Planificación con IA">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/DetailsTravel.jpg" width="200" alt="Detalle de Viaje">
 </p>
 
 > Una aplicación móvil integral construida con Flutter, Supabase y Google Gemini para la planificación inteligente y personalizada de viajes.
