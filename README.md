@@ -1,68 +1,64 @@
-# ViajaInteligente ✈️🤖
+# ✈️ ViajaInteligente - Tu Asistente de Viajes con IA 🤖
 
-Una aplicación móvil de planificación de viajes que utiliza la IA de Google Gemini para crear itinerarios personalizados e inteligentes.
+## 📸 Capturas de Pantalla
+
+<p align="center">
+  <!-- Pantalla de Login y Creación de Cuenta -->
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/Login.jpg" width="200" alt="Pantalla de Login">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/CreateCount.jpg" width="200" alt="Pantalla de Creación de Cuenta">
+  
+  <!-- Pantalla Principal y Detalle de Actividad -->
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/HomePage.jpg" width="200" alt="Pantalla Principal">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/Details.jpg" width="200" alt="Detalle de Actividad">
+  
+  <!-- Planificación con IA y Detalle de Viaje -->
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/ItineraryAI.jpg" width="200" alt="Planificación con IA">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/screenshots/DetailsTravel.jpg" width="200" alt="Detalle de Viaje">
+</p>
+
+> Una aplicación móvil integral construida con Flutter, Supabase y Google Gemini para la planificación inteligente y personalizada de viajes.
+
+Este proyecto es una solución completa que aborda el desafío de simplificar la organización de viajes. Desde la exploración de destinos y la reserva de actividades hasta la generación de itinerarios completos mediante IA, la aplicación centraliza toda la experiencia del viajero, minimiza el estrés y maximiza la aventura a través de una interfaz limpia, moderna y reactiva.
 
 <!-- 
-  ¡IMPORTANTE!
-  Añade aquí un banner o un GIF atractivo de tu aplicación. 
-  Un GIF mostrando la planificación con IA es la mejor opción.
-  Puedes crearlo con herramientas como 'ScreenToGif' (Windows) o 'Kap' (macOS).
+  Añade aquí un GIF atractivo mostrando el flujo principal:
+  Explorar -> Ver Actividad -> Planificar con IA -> Ver resultado.
 -->
 <p align="center">
-  <img src="URL_DE_TU_BANNER_O_GIF_AQUI" alt="Banner de ViajaInteligente" width="800"/>
-</p>
-
-<!-- Insignias de tecnología (shields.io). ¡Se ven muy profesionales! -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Badge"/>
+  <img src="URL_DE_TU_GIF_AQUI" alt="Demo de ViajaInteligente" width="300"/>
 </p>
 
 ---
 
-## 🚀 Sobre el Proyecto
+## ✨ Tecnologías Utilizadas
 
-**ViajaInteligente** es una innovadora aplicación móvil diseñada para revolucionar la forma en que los usuarios planifican y experimentan sus viajes. A diferencia de las agencias de viaje tradicionales, esta app no solo permite explorar destinos y reservar actividades, sino que también ofrece un asistente personal de viaje altamente inteligente y adaptable impulsado por **Google Gemini 1.5 Flash**.
-
-El objetivo principal es simplificar la planificación de viajes, haciéndola más personalizada y eficiente, minimizando el estrés y maximizando la experiencia del viajero.
-
----
-
-## ✨ Características Principales
-
-### Funcionalidades Implementadas (MVP)
-*   ✅ **Autenticación Segura:** Registro e inicio de sesión de usuarios gestionado por Supabase Auth.
-*   ✅ **Exploración de Destinos:** Visualización de una lista atractiva de destinos con búsqueda y filtros.
-*   ✅ **Detalle de Actividades:** Información completa sobre tours y excursiones, incluyendo precios, duración y disponibilidad.
-*   ✅ **Simulación de Reservas:** Flujo completo para seleccionar fecha, número de viajeros y confirmar una reserva, guardándola en la base de datos.
-*   ✅ **Planificación de Itinerarios con IA:** Interfaz para que el usuario describa su viaje ideal y reciba un itinerario detallado día a día, generado por Gemini 1.5 Flash.
-*   ✅ **Gestión de Viajes:** Sección "Mis Próximas Aventuras" que muestra las reservas confirmadas del usuario.
-
-### Funcionalidades Futuras
-*   🔮 **Chatbot Asistente 24/7:** Un chatbot interactivo para responder preguntas y dar sugerencias en tiempo real.
-*   🗺️ **Mapas Interactivos:** Visualización de destinos y actividades en un mapa, con cálculo de rutas.
-*   ⭐ **Sistema de Reseñas:** Permitir a los usuarios dejar reseñas y calificaciones.
-*   🔗 **Integración con APIs de Terceros:** Conexión con APIs reales para vuelos y hoteles.
+| Tecnología          | Icono | Descripción                                                                                              |
+| ------------------- | :---: | -------------------------------------------------------------------------------------------------------- |
+| **Flutter**         |  🐦   | Framework principal para construir la interfaz de usuario nativa y multiplataforma.                        |
+| **Dart**            |  🎯   | Lenguaje de programación optimizado para UI, utilizado para desarrollar con Flutter.                     |
+| **Supabase**        |  🚀   | Backend-como-Servicio (BaaS) que provee la base de datos PostgreSQL, Autenticación y APIs.               |
+| **PostgreSQL**      |  🐘   | Potente base de datos relacional para almacenar toda la información de la aplicación de forma estructurada. |
+| **Google Gemini**   |  ✨   | Modelo de IA de vanguardia utilizado para la generación inteligente y contextual de itinerarios de viaje.   |
+| **HTTP**            |  🌐   | Paquete para realizar las llamadas a la API de Google Gemini.                                            |
+| **Provider / Riverpod** |  📦   | *(Opcional)* Herramienta para la gestión de estado de la aplicación de forma eficiente.                  |
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🚀 Características Clave
 
-*   **Frontend:** **Flutter** - Para una experiencia nativa y fluida en iOS y Android desde una única base de código.
-*   **Backend & Base de Datos (BaaS):** **Supabase** - Utilizado para la base de datos PostgreSQL, autenticación de usuarios, y la gestión de datos en tiempo real.
-*   **Inteligencia Artificial:** **Google Gemini 1.5 Flash API** - El motor detrás de la generación de itinerarios personalizados y conversacionales.
-
-### Arquitectura
-El proyecto sigue una arquitectura limpia, separando la lógica de negocio, la capa de datos y la interfaz de usuario para garantizar su escalabilidad y mantenibilidad.
+*   **Autenticación Robusta:** Flujo completo de registro e inicio de sesión con Supabase Auth.
+*   **Generación de Itinerarios con IA:** El corazón de la app. Los usuarios describen su viaje ideal y Gemini 1.5 Flash crea un plan detallado.
+*   **Exploración Dinámica:** Listas de destinos y actividades cargadas directamente desde la base de datos.
+*   **Sistema de Reservas:** Funcionalidad para seleccionar fechas, viajeros y confirmar actividades, guardando la reserva en la base de datos.
+*   **Persistencia de Datos:** Los viajes planificados y las reservas se asocian al perfil del usuario.
+*   **Interfaz Moderna y Reactiva:** Un diseño oscuro y elegante, construido con las mejores prácticas de UI/UX en Flutter.
 
 ---
 
 ## 📸 Capturas de Pantalla
 
 <!-- 
-  Añade aquí capturas de pantalla de tu aplicación. 
-  Muestra las pantallas más importantes: Autenticación, Home, Detalle de Actividad y, sobre todo, la Planificación con IA.
+  Añade aquí tus capturas de pantalla, idealmente con un layout horizontal.
 -->
 <p align="center">
   <img src="URL_SCREENSHOT_LOGIN" width="200" alt="Pantalla de Login">
@@ -100,15 +96,11 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
-
 ## 📬 Contacto
 
-<!-- Reemplaza con tu información -->
-**Julián David Rojas Román** - [GitHub](https://github.com/julian1416) - [Linkedln](www.linkedin.com/in/julian-rojas-8b4b682b0)
+Desarrollado por:
 
-Enlace al Repositorio: [https://github.com/TU_USUARIO/ViajaInteligente](https://github.com/TU_USUARIO/ViajaInteligente)
+*Julián David Rojas Román*  
+- *GitHub:* (https://github.com/julian1416)  
+- *LinkedIn:* [www.linkedin.com/in/julian-rojas-8b4b682b0
+)
