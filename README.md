@@ -3,12 +3,13 @@
 ## 📸 Capturas de Pantalla
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/julianrojas1416/Viaje-Inteligente/main/screens/Login.jpg" width="200" alt="Pantalla de Login">
-  <img src="https://raw.githubusercontent.com/julianrojas1416/Viaje-Inteligente/main/screens/CreateCount.jpg" width="200" alt="Pantalla de Creación de Cuenta">
-  <img src="https://raw.githubusercontent.com/julianrojas1416/Viaje-Inteligente/main/screens/HomePage.jpg" width="200" alt="Pantalla Principal">
-  <img src="https://raw.githubusercontent.com/julianrojas1416/Viaje-Inteligente/main/screens/Details.jpg" width="200" alt="Detalle de Actividad">
-  <img src="https://raw.githubusercontent.com/julianrojas1416/Viaje-Inteligente/main/screens/ItineraryAI.jpg" width="200" alt="Planificación con IA">
-  <img src="https://raw.githubusercontent.com/julianrojas1416/Viaje-Inteligente/main/screens/DetailsTravel.jpg" width="200" alt="Detalle de Viaje">
+  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/CreateCount.jpg" width="200" alt="Pantalla de Creación de Cuenta">
+  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/Details.jpg" width="200" alt="Detalle de Actividad">
+  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/DetailsTravel.jpg" width="200" alt="Detalle de Viaje">
+  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/HomePage.jpg" width="200" alt="Pantalla Principal">
+  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/ItineraryAI.jpg" width="200" alt="Planificación con IA">
+  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/Login.jpg" width="200" alt="Pantalla de Login">
+  <img src="https://raw.githubusercontent.com/julian1416/Viaje-Inteligente/main/screens/ResetCount.jpg" width="200" alt="Pantalla de Reseteo">
 </div>
 
 > Una aplicación móvil integral construida con Flutter, Supabase y Google Gemini para la planificación inteligente y personalizada de viajes.
