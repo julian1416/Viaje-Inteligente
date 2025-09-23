@@ -29,14 +29,6 @@
 
 Este proyecto es una solución completa que aborda el desafío de simplificar la organización de viajes. Desde la exploración de destinos y la reserva de actividades hasta la generación de itinerarios completos mediante IA, la aplicación centraliza toda la experiencia del viajero, minimiza el estrés y maximiza la aventura a través de una interfaz limpia, moderna y reactiva.
 
-<!-- 
-  Añade aquí un GIF atractivo mostrando el flujo principal:
-  Explorar -> Ver Actividad -> Planificar con IA -> Ver resultado.
--->
-<p align="center">
-  <img src="URL_DE_TU_GIF_AQUI" alt="Demo de ViajaInteligente" width="300"/>
-</p>
-
 ---
 
 ## ✨ Tecnologías Utilizadas
@@ -61,20 +53,6 @@ Este proyecto es una solución completa que aborda el desafío de simplificar la
 *   **Sistema de Reservas:** Funcionalidad para seleccionar fechas, viajeros y confirmar actividades, guardando la reserva en la base de datos.
 *   **Persistencia de Datos:** Los viajes planificados y las reservas se asocian al perfil del usuario.
 *   **Interfaz Moderna y Reactiva:** Un diseño oscuro y elegante, construido con las mejores prácticas de UI/UX en Flutter.
-
----
-
-## 📸 Capturas de Pantalla
-
-<!-- 
-  Añade aquí tus capturas de pantalla, idealmente con un layout horizontal.
--->
-<p align="center">
-  <img src="URL_SCREENSHOT_LOGIN" width="200" alt="Pantalla de Login">
-  <img src="URL_SCREENSHOT_HOME" width="200" alt="Pantalla Principal">
-  <img src="URL_SCREENSHOT_ACTIVIDAD" width="200" alt="Detalle de Actividad">
-  <img src="URL_SCREENSHOT_IA" width="200" alt="Planificación con IA">
-</p>
 
 ---
 
